@@ -10,13 +10,13 @@ b) Copy one of the Quote.* files into the Picture directory. Choose a format tha
 
 c) Update this README.md file:
 
-     Section 1: Enter your name and email address.
+     Section 1: Siraseth Srisuwan 6730499321@student.chula.ac.th
 
-     Section 2: Embed the quote image from the Picture directory.
+     Section 2: ![Quote Image](Picture/Quote.png)
 
-     Section 3: Embed the GIF animation from the Animation directory.
+     Section 3:  ![Git Animation](Animation/GITGIF.gif)
 
-     Section 4: Type the quote as plain text.
+     Section 4: Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked. worked.
 
      Commit your changes and submit your repository URL.
 
@@ -24,19 +24,18 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Siraseth Srisuwan
+Email: 6730499431@student.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote Image](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
-
+![Git Animation](Animation/GITGIF.gif)
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked. worked.
 
 🎬 5. Video Lecture
