@@ -29,7 +29,7 @@ Email: 6730499431@student.chula.ac.th
 
 🖼️ 2. Picture
 
-![Quote Image](Picture/Quote.png)
+![Quote Image](Pictures/Quote.png)
 
 🎞️ 3. Animation
 
