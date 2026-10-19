@@ -12,7 +12,7 @@ c) Update this README.md file:
 
      Section 1: Siraseth Srisuwan 6730499321@student.chula.ac.th
 
-     Section 2: ![Quote Image](Picture/Quote.png)
+     Section 2: ![Quote Image](Pictures/Quote.png)
 
      Section 3:  ![Git Animation](Animation/GITGIF.gif)
 
